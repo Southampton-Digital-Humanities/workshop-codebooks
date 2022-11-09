@@ -1,6 +1,6 @@
 # Soton DH Workshop Codebooks
 
-A repo for code/workbooks used during [Southampton Digital Humanities](http://digitalhumanities.soton.ac.uk/) workshops and events.
+A repo for code/workbooks used during [Southampton Digital Humanities](http://digitalhumanities.soton.ac.uk/) workshops, events, seminars, and classes.
 
 Access via the notebooks folder or Colab notebook links below.
 
